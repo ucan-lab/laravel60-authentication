@@ -3,8 +3,8 @@
 ![screenshot.png](screenshot.png)
 
 ```
-$ git clone git@github.com:ucan-lab/laravel60-quickstart-basic
-$ cd laravel60-quickstart-basic
+$ git clone git@github.com:ucan-lab/laravel60-authentication
+$ cd laravel60-authentication
 $ docker-compose up -d --build
 $ docker-compose exec app composer install
 $ docker-compose exec app cp .env.example .env
