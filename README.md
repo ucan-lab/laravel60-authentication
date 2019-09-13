@@ -1,5 +1,7 @@
 # laravel60-authentication
 
+![screenshot.png](screenshot.png)
+
 ```
 $ git clone git@github.com:ucan-lab/laravel60-quickstart-basic
 $ cd laravel60-quickstart-basic
